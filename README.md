@@ -3,12 +3,10 @@ Bokfritti
 
 Bokfritti is a fun Bokeh graffiti canvas written in Processing, a graphics API for Java. Left-clicking and dragging creates extra luminescent spots, while right-clicking clears the canvas.
 
-Running
--------
+##Running
 You can run Bokfritti as long as you have Java installed. Launch `/applet/Bokfritti.jar` to run.
 
-Modifying
----------
+##Modifying
 You require Processing to modify the `.pde` files for this application.
 
 Bugs
