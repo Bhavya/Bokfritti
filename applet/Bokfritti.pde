@@ -12,6 +12,10 @@ void setup() {
 }
 
 void draw() {
+  //fade
+  fill(0, 0, 0, 1);
+  noStroke();
+  rect( 0, 0, width, height);
   
   float dx = mouseX - x;
   float dy = mouseY - y;

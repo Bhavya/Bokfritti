@@ -31,6 +31,10 @@ public void setup() {
 }
 
 public void draw() {
+  //fade
+  fill(0, 0, 0, 1);
+  noStroke();
+  rect( 0, 0, width, height);
   
   float dx = mouseX - x;
   float dy = mouseY - y;
@@ -53,6 +57,6 @@ public void draw() {
 
 
   static public void main(String args[]) {
-    PApplet.main(new String[] { "--bgcolor=#F0F0F0", "Bokfritti" });
+    PApplet.main(new String[] { "--bgcolor=#FFFFFF", "Bokfritti" });
   }
 }
