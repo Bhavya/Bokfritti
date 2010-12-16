@@ -6,7 +6,7 @@ Bokfritti is a fun Bokeh graffiti canvas written in Processing, a graphics API f
 Application
 -----------
 ###Running
-You can run Bokfritti by navigating to the relevant application directory and launching the standalone executable inside. Bokfritti has been compiled for MS Windows, Mac OSX, and Linux.
+You can run Bokfritti by navigating to the relevant application directory and launching the standalone executable inside. Bokfritti has been compiled for MS Windows, Mac OSX, and Linux. You can also choose to run the included `*.jar` files as applets.
 
 ###Modifying
 You require Processing to modify the `*.pde` files for this application. The Minim audio library is included.
