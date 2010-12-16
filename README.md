@@ -1,5 +1,4 @@
-Bokfritti
-=========
+![Bokfritti](http://www.karmabubble.com/Bokfritti/bok.jpg)
 
 Bokfritti is a fun Bokeh graffiti canvas written in Processing, a graphics API for Java. Left-clicking and dragging creates extra luminescent spots, while right-clicking allows the application to visualize audio input via a standard microphone.
 
